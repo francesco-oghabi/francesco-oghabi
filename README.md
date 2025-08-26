@@ -4,15 +4,15 @@
 
 - ❤️  [My sideproject](https://templatedeck.com)
 
-- 📺 [My website](https://holgerkoenemann.com)
+- 📺 [My website](https://oghabi.it)
 
 - 📂 [My online CV](https://read.cv/holgerkoenemann)
 
-- 🔭 I’m currently working on [a Eleventy (aka 11ty) + Bootstrap 5 starter kit](https://11straps.com)
+- 🔭 I’m currently working on Magento, Kubernetes and Cloud Infrastructure
 
-- 🌱 I’m currently learning **Tailwind CSS, JAMstack setups, API stuff, Headless WordPress, Strapi and more**
+- 🌱 I’m currently learning **Security** and **CEH**
 
-- 💬 Ask me about **HTML, SCSS, WordPress, Bootstrap 5, Gulp, Eleventy, Performance Optimization, npm, UX Design, Design Systems, UI Architecture**
+- 💬 Ask me about **Magento Cloud Commerce, Magento Community, Kubernetes Infrastructure, Helm Chart, Docker**
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
