@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/holger1411/holger1411/main/hk-frame.jpg" alt="header image for Francesco Oghabi GitHub account" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/francesco-di-marcantonio/francesco-di-marcantonio/refs/heads/main/images/github_cover.png" alt="header image for Francesco Oghabi GitHub account" style="width:100%;"/>
 <h1>Say Hi! to my tiny corner of GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h4>I work within enterprise architecture, Magento eCommerce and everything that can be coded.</h4>
 
