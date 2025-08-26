@@ -16,11 +16,7 @@
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/holger1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="holger1411" height="30" width="40" /></a>
-<a href="https://twitter.com/holger1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="holger1411" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/holger-könemann-29707317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="holger-könemann-29707317" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4311022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4311022" height="30" width="40" /></a>
-<a href="https://www.behance.net/holgerkoenemann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="holgerkoenemann" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francesco-oghabi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="holger-könemann-29707317" height="30" width="40" /></a>
 </p>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
@@ -28,22 +24,14 @@
 <hr/>
 <h3>Some stats for my personal GitHub account:</h3>
 <p> (Work stats not included)</p>
-<details>
-  <summary>GitHub Trophies</summary>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=holger1411" alt="holger1411" /></a> </p>
-</details>
 <details>
   <summary>Most used languages</summary>
-<div style="width:100%, display:block;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holger1411&show_icons=true&locale=en&layout=compact" alt="holger1411" /></div>
+<div style="width:100%, display:block;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francesco-di-marcantonio&show_icons=true&locale=en&layout=compact" alt="holger1411" /></div>
 </details>
 <details>
   <summary>GitHub stats</summary>
-<div style="width:100%, display:block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=holger1411&show_icons=true&locale=en" alt="holger1411" /></div>
+<div style="width:100%, display:block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=francesco-di-marcantonio&show_icons=true&locale=en" alt="holger1411" /></div>
 </details>
-<details>
-  <summary>Contributions</summary>
-<div style="width:100%, display:block;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holger1411&" alt="holger1411" /></div>
-</details>
+
 <hr/>
-<p align="left"><small>Since Jul 13th, 2021:</small><br/> <img src="https://komarev.com/ghpvc/?username=holger1411&label=Profile%20views&color=0e75b6&style=flat" alt="holger1411" /> </p>
