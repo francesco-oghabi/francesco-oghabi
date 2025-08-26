@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/holger1411/holger1411/main/hk-frame.jpg" alt="header image for Holger Koenemanns GitHub account" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/holger1411/holger1411/main/hk-frame.jpg" alt="header image for Francesco Oghabi GitHub account" style="width:100%;"/>
 <h1>Say Hi! to my tiny corner of GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h4>I work within this strange intersection of product design and product development. So you can call me a UX Engineer, a UI Architect, a Frontend Designer or a Front-of-the-Frontend Developer.</h4>
+<h4>I work within enterprise architecture, Magento eCommerce and everything that can be coded.</h4>
 
 - ❤️  [My sideproject](https://templatedeck.com)
 
 - 📺 [My website](https://oghabi.it)
 
-- 📂 [My online CV](https://read.cv/holgerkoenemann)
+- 📂 [My online CV](https://oghabi.it)
 
 - 🔭 I’m currently working on Magento, Kubernetes and Cloud Infrastructure
 
