@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/francesco-di-marcantonio/francesco-di-marcantonio/refs/heads/main/images/github_cover.png" alt="header image for Francesco Oghabi GitHub account" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/francesco-oghabi/francesco-oghabi/refs/heads/main/images/github_cover.png" alt="header image for Francesco Oghabi GitHub account" style="width:100%;"/>
 <h1>Say Hi! to my tiny corner of GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h4>I work within enterprise architecture, Magento eCommerce and everything that can be coded.</h4>
 
@@ -31,11 +31,11 @@
 
 <details>
   <summary>Most used languages</summary>
-<div style="width:100%, display:block;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francesco-di-marcantonio&show_icons=true&locale=en&layout=compact" alt="holger1411" /></div>
+<div style="width:100%, display:block;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francesco-oghabi&show_icons=true&locale=en&layout=compact" alt="holger1411" /></div>
 </details>
 <details>
   <summary>GitHub stats</summary>
-<div style="width:100%, display:block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=francesco-di-marcantonio&show_icons=true&locale=en" alt="holger1411" /></div>
+<div style="width:100%, display:block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=francesco-oghabi&show_icons=true&locale=en" alt="holger1411" /></div>
 </details>
 
 <hr/>
