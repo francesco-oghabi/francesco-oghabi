@@ -2,7 +2,9 @@
 <h1>Say Hi! to my tiny corner of GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h4>I work within enterprise architecture, Magento eCommerce and everything that can be coded.</h4>
 
-- ❤️  [My sideproject](https://oghabi.it)
+- ❤️  [Magefleet](https://oghabi.it)
+
+- 📺 [Magento-Academy](https://magento-academy.com)
 
 - 📺 [My website](https://oghabi.it)
 
