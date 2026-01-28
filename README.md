@@ -2,15 +2,17 @@
 <h1>Say Hi! to my tiny corner of GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h4>I work within enterprise architecture, Magento eCommerce and everything that can be coded.</h4>
 
-- ❤️  [Magefleet](https://oghabi.it)
+- [HellfireCloud](https://https://hellfirecloud.it)
 
-- 📺 [Magento-Academy](https://magento-academy.com)
+- [Magefleet](https://oghabi.it)
 
-- 📺 [My website](https://oghabi.it)
+- [Magento-Academy](https://magento-academy.com)
 
-- 🫙 [Helm repository](https://artifacthub.io/packages/search?user=magefleet&sort=relevance&page=1)
+- [My website](https://oghabi.it)
 
-- 📂 [My online CV](https://oghabi.it)
+- [Helm repository](https://artifacthub.io/packages/search?user=magefleet&sort=relevance&page=1)
+
+- [My online CV](https://oghabi.it)
 
 
 
