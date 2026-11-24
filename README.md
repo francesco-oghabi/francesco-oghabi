@@ -2,6 +2,8 @@
 <h1>Say Hi! to my tiny corner of GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h4>I work within enterprise architecture, Magento eCommerce and everything that can be coded.</h4>
 
+- [OpenArtemis](https://github.com/francesco-oghabi/artemis): Autonomous AI Pentration Agent Based on Open Weight Models
+
 - [HellfireCloud](https://https://hellfirecloud.it)
 
 - [Magefleet](https://oghabi.it)
@@ -16,11 +18,11 @@
 
 
 
-- 🔭 I’m currently working on Magento, Kubernetes and Cloud Infrastructure
+- 🔭 I’m currently working on Maching Learning Opeations, Security, Kubernetes and Cloud Infrastructure
 
 - 🌱 I’m currently learning **Security** and **CEH**
 
-- 💬 Ask me about **Magento Cloud Commerce, Magento Community, Kubernetes Infrastructure, Helm Chart, Docker**
+- 💬 Ask me about **MLOps, Cloud Architecture, Magento Community, Kubernetes Infrastructure, Helm Chart, Docker**
 
 <hr/>
 <h3 align="left">Connect with me:</h3>
