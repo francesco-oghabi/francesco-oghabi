@@ -2,15 +2,17 @@
 <h1>Say Hi! to my tiny corner of GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h4>I work within enterprise architecture, Magento eCommerce and everything that can be coded.</h4>
 
-- [OpenArtemis](https://github.com/francesco-oghabi/artemis): Autonomous AI Pentration Agent Based on Open Weight Models
+- [OpenArtemis](https://github.com/francesco-oghabi/artemis): Autonomous AI Penetration Agent Based on Open Weight Models
 
-- [HellfireCloud](https://https://hellfirecloud.it)
+- [HellfireCloud](https://hellfirecloud.it)
 
 - [Magefleet](https://oghabi.it)
 
 - [Magento-Academy](https://magento-academy.com)
 
 - [My website](https://oghabi.it)
+
+- [Consulenza Magento / Adobe Commerce](https://oghabi.it/it-it/sviluppatore-magento-italia/)
 
 - [Helm repository](https://artifacthub.io/packages/search?user=magefleet&sort=relevance&page=1)
 
